@@ -1,0 +1,18 @@
+h1 {
+    color:darkred;
+    text-align: center;
+}
+.button-link {
+    display: inline-block;
+    background-color: blueviolet;
+    color: white;
+    padding: 1em 2em;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+.button-link:hover {
+  background-color: #0056b3;
+}
+.button-link:active{
+    transform: scale(0.95);
+}
